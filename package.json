@@ -1,0 +1,19 @@
+{
+  "name": "paypalintegrationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdarifuzzaman/PaypalIntegrationTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdarifuzzaman/PaypalIntegrationTest/issues"
+  },
+  "homepage": "https://github.com/mdarifuzzaman/PaypalIntegrationTest#readme"
+}
